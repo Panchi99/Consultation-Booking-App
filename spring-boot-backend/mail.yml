@@ -1,0 +1,23 @@
+mail:
+  configs:
+    # Account MainStudent
+    - username: professorprofessor2022@gmail.com
+      password: oulkpdabwyhsmxog
+      host: smtp.gmail.com
+      port: 587
+      protocol: smtp
+      defaultEncoding: UTF-8
+    # Account Student181046
+    - username: student181046@gmail.com
+      password: pcfmnftwayztwrdw
+      host: smtp.gmail.com
+      port: 587
+      protocol: smtp
+      default-encoding: UTF-8
+        # Account MainProfessor
+    - username: student181046@gmail.com
+      password: pcfmnftwayztwrdw
+      host: smtp.gmail.com
+      port: 587
+      protocol: smtp
+      defaultEncoding: UTF-8
